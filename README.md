@@ -1,21 +1,4 @@
-# Awesome Screenshot Minus
-
-This extension was created because I liked the original Awesome Screenshot extension by Diigo but could not trust it not to sell me out.
-It has now been removed from the webstore, reportedly for user privacy violations -- all true. I found a lot of questionable stuff inside. 
-
-If you are familiar with the original Awesome Screenshot, you'll feel right at home.
-
-Here are the things I added, in addition to removing all the junk:
-
- ++ Desktop capture - used to be a "premium feature", I re-implemented it myself.
- ++ GDrive URL shortening - short "goo.gl/foo" urls for screenshots uploaded to GDrive.
- ++ (coming soon) Touch screen support.
-
- ** Less intrusive (minimum amount of code is injected into pages).
-
-Get it in store: [here](https://chrome.google.com/webstore/detail/awesome-screenshot-minus/bnophbnknjcjnbadhhkciahanapffepm)
-
-Beta version (more frequent updates, but less stable): [here](https://chrome.google.com/webstore/detail/awesome-screenshot-minus/nlpijfidodaooggfpobkofgcedonamgd)
+# Screenshotter Annotator
 
 Note on permissions:
   * all_urls: Required for shortcut-initiated captures to work, otherwise could be replaced with activeTab.
